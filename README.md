@@ -12,5 +12,5 @@ Read book "Django 4 by example" by Antonio Mele.
 💠BRIEFLY:
 
 - Python junior Back-end developer 🌐 
-- Learn english, django, git 📖
+- Learn english, django, git, front-end 📖
 - Create portfolio for future work ⚒️
